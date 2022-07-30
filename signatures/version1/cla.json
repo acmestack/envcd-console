@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "lmh-kid",
+      "id": 39640933,
+      "comment_id": 1200159584,
+      "created_at": "2022-07-30T13:38:29Z",
+      "repoId": 499574269,
+      "pullRequestNo": 2
+    }
+  ]
 }
